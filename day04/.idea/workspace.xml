@@ -5,25 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8cac4ea7-2351-413e-b36d-364a8a97dc2b" name="Changes" comment="day04">
-      <change afterPath="$PROJECT_DIR$/src/main/java/filters/CommonFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/filters/CommonRequestWrapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/filters/CommonResponseWrapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/filters/FilterEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/filters/FilterEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day05/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day05/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day05/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day05/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day05/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day05/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day05/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day05/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day05/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day05/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day05/src/main/webapp/hello.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/servlets/BoardServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/servlets/BoardServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/servlets/HelloServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/servlets/HelloServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +56,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;last_opened_file_path&quot;: &quot;D:/SW_LHI1400/5. 프로그래밍 언어 활용/web_study/day02&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
@@ -102,7 +85,6 @@
         </TomcatInfo>
       </option>
       <option name="vmOptions" value="" />
-      <module name="day04" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
