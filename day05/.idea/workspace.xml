@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a72326b0-d0de-4565-80fb-1d5ffb0ae89e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/exam01/ex01.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day04/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day04/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day04/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day04/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/hello.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/hello.jsp" afterDir="false" />
-    </list>
+    <list default="true" id="a72326b0-d0de-4565-80fb-1d5ffb0ae89e" name="Changes" comment="day05" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,6 +72,19 @@
       <option name="presentableId" value="Default" />
       <updated>1697182028773</updated>
     </task>
+    <task id="LOCAL-00001" summary="day05">
+      <option name="closed" value="true" />
+      <created>1697187104016</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1697187104016</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="day05" />
+    <option name="LAST_COMMIT_MESSAGE" value="day05" />
   </component>
 </project>
