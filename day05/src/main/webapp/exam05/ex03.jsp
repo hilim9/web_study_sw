@@ -12,6 +12,7 @@
 --%>
 
 <jsp:setProperty name="member" property="*" />
+<jsp:setProperty name="member" property="userId" param="memId" />
 
 아이디 : <jsp:getProperty name="member" property="userId" /><br>
 비밀번호 : <jsp:getProperty name="member" property="userPw" /><br>
