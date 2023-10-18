@@ -17,7 +17,7 @@ public class JoinController extends HttpServlet {
     public void doGet(HttpServletRequest req, HttpServletResponse resp)
             throws ServletException, IOException {
 
-        req.setAttribute("message", "안녕하세요");
+        req.setAttribute("messages", "안녕하세요");
 
         resp.setContentType("text/html; charset=UTF-8");
         PrintWriter out = resp.getWriter();
